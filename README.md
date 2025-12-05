@@ -2,7 +2,7 @@
 
 ## **1. Project Overview**
 
-This project analyzes customer shopping behavior using transactional data from **3,900 purchases** across multiple product categories.  
+This project analyses customer shopping behavior using transactional data from **3,900 purchases** across multiple product categories.  
 The goal is to identify trends in customer demographics, spending patterns, discount usage, product preferences, and subscription behavior to support data-driven business decisions.
 
 This end-to-end project covers:  
@@ -28,7 +28,7 @@ This end-to-end project covers:
 
 ## **3. Exploratory Data Analysis (Python)**
 
-Initial data preparation and cleaning were executed in Python using **pandas**, **numpy**, and **seaborn**.
+Initial data preparation and cleaning were executed in Python using **pandas**.
 
 ### **Key Steps**
 
